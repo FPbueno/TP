@@ -1,3 +1,3 @@
 # TS
 
-<h2>Exercicios das aulas do Arley</h2>
+<h2>Tecnicas de Programação</h2>
